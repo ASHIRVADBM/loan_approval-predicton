@@ -118,16 +118,7 @@ Education vs Loan Status
 
 Self-employed vs Loan Status
 
-🧾 Requirements
-streamlit==1.32.0
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.4.2
-matplotlib==3.8.4
-seaborn==0.13.2
-joblib==1.3.2
-python-dateutil==2.9.0
-pytz==2024.1
+<img width="192" height="253" alt="image" src="https://github.com/user-attachments/assets/f1594900-f98a-4a42-add9-84da23275951" />
 
 🤝 Contributing
 
