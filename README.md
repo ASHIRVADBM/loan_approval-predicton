@@ -19,15 +19,7 @@ Built using Python, Scikit-Learn, Streamlit, and Pandas.
 
 🧪 Train/test split & confusion matrix
 
-📁 Project Structure
-loan_approval_prediction/
-│── app.py                 # Streamlit frontend
-│── model.pkl              # Trained ML model
-│── scaler.pkl             # StandardScaler used for preprocessing
-│── requirements.txt        # Python dependencies
-│── .gitignore
-│── README.md
-│── loan_env/ (ignored)    # Virtual environment
+<img width="565" height="242" alt="image" src="https://github.com/user-attachments/assets/380a6e02-f24d-4dec-8012-754bb5619850" />
 
 🛠️ Technologies Used
 
